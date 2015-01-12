@@ -1,19 +1,19 @@
 # Thai Extension for OpenCart 2.0.1.1
 
 readme Thai Translation (th_TH) for OpenCart
-==============================================
 
-Package/Paket	Languages (frontend)
+
+Package	Languages (frontend)
 Requirement		OpenCart 2.x
 Copyright		Songwut Kanchanakosai. songwutk@gmail.com
 License			GNU/GPL http://www.gnu.org/copyleft/gpl.html
------------------------------------------------------------------
+
 
 English
-=======
+
 
 Description
-***********
+-----------
 Complete Thai Translation for user (Frontend / shop)
 
 Installation
