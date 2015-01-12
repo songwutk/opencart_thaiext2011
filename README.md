@@ -24,11 +24,11 @@ and transfer the files (same structure as you can see) with FTP
 to your server (current shop installation).
 After that, open your OpenCart backend and follow these steps:
 
-1. navigate to System -> Localisation -> Languages
+1. Navigate to System -> Localisation -> Languages
 2. Click the Edit button
 3. Fill in the following values:
 
-	3.1 Language	Thai
+	3.1 Language	Thai	
 	3.2 Code	th
 	3.3 Locale	th,th_TH.UTF-8,thai
 	3.4 Image	th.png
